@@ -1,5 +1,13 @@
 # Welcome to project
 
+# how to run the project with docker
+step 1  -  docker build -t  characterforge .
+
+step 2   - docker run -d -p 1133:80 characterforge
+
+file:///home/ayush/Pictures/Screenshots/Screenshot%20from%202025-11-27%2014-12-31.png
+
+
 ## Project info
 
 *
